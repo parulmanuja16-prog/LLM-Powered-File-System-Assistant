@@ -1,0 +1,16 @@
+Alice Johnson
+Senior Backend Engineer
+alice.johnson@example.com | +1-415-555-0142 | San Francisco, CA
+
+SUMMARY
+Senior backend engineer with 8+ years building distributed systems in Python and Go. Led migration of a monolithic Django app to a Kubernetes-based microservices architecture serving 50M MAUs.
+
+SKILLS
+Python, Go, FastAPI, Django, PostgreSQL, Redis, Kafka, Kubernetes, AWS, Terraform
+
+EXPERIENCE
+Stripe — Staff Engineer (2021-Present): Led billing infra team of 6. Reduced 99p latency from 800ms to 120ms via async batching.
+Airbnb — Senior Engineer (2017-2021): Owned host payouts pipeline processing $4B annually.
+
+EDUCATION
+B.S. Computer Science, Carnegie Mellon University (2015)

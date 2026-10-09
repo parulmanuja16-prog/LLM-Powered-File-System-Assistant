@@ -1,0 +1,16 @@
+Bob Chen
+Machine Learning Engineer
+bob.chen@example.com | +1-650-555-0193 | Mountain View, CA
+
+SUMMARY
+ML engineer specializing in NLP and large language model fine-tuning. Shipped a production RAG pipeline at Google serving 12M queries/day.
+
+SKILLS
+Python, PyTorch, TensorFlow, Hugging Face, LangChain, FAISS, BigQuery, GCP, Docker
+
+EXPERIENCE
+Google — Senior MLE (2020-Present): Built domain-specific embedding models reducing search miss-rate by 23%.
+Cruise — MLE (2018-2020): Perception model training pipelines.
+
+EDUCATION
+M.S. Computer Science, Stanford University (2018)
